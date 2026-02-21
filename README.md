@@ -1,123 +1,151 @@
-<!-- Premium Animated Banner -->
 <img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
 <h1 align="left">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Sanapala Chanikya
+  Hi, I'm <strong>Sanapala Chanikya</strong>
 </h1>
 
-<h3>
-Full Stack Engineer • AI-Enabled Systems • Scalable Web Architectures
-</h3>
+<h3>Full Stack Engineer | AI-Enabled Web Applications | Next.js • React • Firebase</h3>
 
----
+<div align="left">
+  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
-## 🚀 About Me
+  <p>
+    Motivated full-stack focused engineering student passionate about building 
+    scalable, secure, and AI-powered web applications.  
+    I enjoy developing role-based systems, authentication workflows, 
+    and real-world production deployments.
+  </p>
 
-I build scalable, secure, AI-powered web applications focused on real-world impact.
+  <p>
+    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
+    <a href="mailto:sanapalachanikya@gmail.com">
+      <img src="https://img.shields.io/badge/📧_sanapalachanikya@gmail.com-1e1e2e?style=for-the-badge" />
+    </a>
+    <img src="https://img.shields.io/badge/🎓_B.Tech_CSE_(AI_&_ML)-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🤝_Open_to_Opportunities-1e1e2e?style=for-the-badge" />
+  </p>
 
-My expertise lies in:
-- Role-based authentication systems
-- AI-integrated web workflows
-- Production-ready full-stack architectures
-- Clean UI with performance-first engineering
-
-Currently focused on building intelligent SaaS-style platforms.
-
----
-
-## 🌍 Connect
-
+<h3>🌐 Connect With Me</h3>
+  
 <p align="left">
   <a href="https://github.com/Chanikya-Sanapala">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
   </a>
+
   <a href="https://linkedin.com/in/chanikya-sanapala">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
+
   <a href="https://chanikya-portfolio-mocha.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=white" />
   </a>
-  <a href="https://chanix.vercel.app/">
-    <img src="https://img.shields.io/badge/Chanix_Live-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+</p>
+
+  <img src="https://komarev.com/ghpvc/?username=Chanikya-Sanapala&style=flat-square&color=blue" alt="Profile Visit"/>
+</div>
+
+<br clear="all" />
+
+---
+
+## 🛠️ Technical Skills
+
+<p align="center">
+<table>
+<tr>
+<td width="50%" align="center">
+<h3>💻 Programming</h3>
+<img src="https://skillicons.dev/icons?i=java,html,css,js" />
+</td>
+
+<td width="50%" align="center">
+<h3>⚛️ Frontend</h3>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+<h3>🗄️ Databases</h3>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+</td>
+
+<td width="50%" align="center">
+<h3>🧰 Tools & Platforms</h3>
+<img src="https://skillicons.dev/icons?i=git,vercel,postman" />
+</td>
+</tr>
+</table>
 </p>
 
 ---
 
-## 🧠 Core Expertise
-
-### ⚙️ Full Stack Development
-- Next.js
-- React
-- Node.js
-- REST APIs
-- MongoDB / Firebase
-- Secure Deployment (Vercel)
-
-### 🤖 AI-Integrated Systems
-- AI-driven interview workflows
-- Candidate scoring algorithms
-- Role-based data evaluation logic
-- Structured automation pipelines
-
-### 🔐 System Architecture
-- Multi-role access control (Admin / Recruiter / User)
-- Authentication & authorization flows
-- Production-ready scalable deployments
-
----
-
-## 🏆 Flagship Project
+## 🚀 Featured Projects
 
 ### 🤖 Chanix — AI-Powered Recruitment Platform  
 🔗 https://chanix.vercel.app/
 
-A production-ready AI-enabled hiring platform that:
+- AI-driven structured interview system  
+- Role-based dashboards (Admin, Recruiter & Candidate)  
+- Skill-based candidate matching & evaluation scoring  
+- Automated shortlisting with performance analytics  
+- Secure authentication & protected route workflows  
+- Production deployment on Vercel  
+- **Tech:** Next.js, React, Tailwind CSS, Firebase / MongoDB, REST APIs  
 
-- Automates candidate screening
-- Conducts structured AI interviews
-- Provides skill-based evaluation
-- Delivers recruiter analytics dashboards
-- Implements multi-role secure authentication
+### 🔐 LAVAZA Entry Verification System
+- Secure student login with Firebase Authentication  
+- Official Gmail restriction  
+- QR code generation with one-time entry rule  
+- Live deployment on Vercel  
+- **Tech:** Next.js, Firebase Auth, Firestore  
 
-Built with modern SaaS architecture and deployed for real-world use.
+### 🍔 Food Delivery Web Application
+- Responsive full-stack platform  
+- CRUD operations using PHP & MySQL  
+- Dynamic dashboard updates  
 
-Tech Stack:
-Next.js • React • Tailwind CSS • Firebase / MongoDB • REST APIs • Vercel
+### ☀️ Solar Tracking System (Arduino)
+- Automatic solar panel alignment using LDR sensors  
+- Improved energy efficiency by 30%  
 
 ---
 
-## 💼 Experience
+## 💼 Internship Experience
 
-### Full Stack Engineer Intern  
-NLP CloudX Solutions Pvt. Ltd.  
-- Developed production-grade frontend & backend features  
-- Optimized performance and deployment workflows  
-- Contributed to scalable system modules  
+**Full Stack Engineer Intern — NLP CloudX Solutions Pvt. Ltd.**  
+- Production-style frontend & backend development  
+- Debugging, feature enhancements, deployment workflows  
 
-### AI & ML Intern  
-NIELIT Chennai  
-- Trained ML models in real datasets  
-- Practiced end-to-end ML lifecycle workflows  
+**AI & Machine Learning Intern — NIELIT Chennai**  
+- Hands-on ML model training  
+- Practiced ML workflows in Google Colab  
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Chanikya-Sanapala&theme=dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Chanikya-Sanapala&theme=dark&hide_border=true" />
 </div>
 
 ---
 
-## 🎯 Focus Areas
-
-- AI-Enabled SaaS Platforms  
-- Intelligent Recruitment Systems  
-- Secure Full Stack Engineering  
-- Scalable Production Deployments  
+## 🎯 Career Focus
+- AI-enabled Web Applications  
+- Role-Based Authentication Systems  
+- Scalable Full Stack Development  
+- Secure Deployment Workflows  
 
 ---
 
-⭐ Building software products with measurable impact.
+## 📜 Certifications
+- IBM — Mainframe Practitioner  
+- IBM — Introduction to z/OS  
+- Infosys — Python for Beginners  
+- Infosys — Java Programming Fundamentals  
+
+---
+
+⭐ *“Building scalable and secure software products with real-world impact.”*
