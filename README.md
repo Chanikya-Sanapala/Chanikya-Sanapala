@@ -80,43 +80,62 @@
 </p>
 
 ---
-
 ## 🚀 Featured Projects
 
-### 🤖 Chanix — AI-Powered Recruitment Platform  
-🔗 https://chanix.vercel.app/
+### 📚 LeafyBooks — AI-Integrated Full-Stack E-Commerce Platform
 
-- AI-driven structured interview system  
-- Role-based dashboards (Admin, Recruiter & Candidate)  
-- Skill-based candidate matching & evaluation scoring  
-- Automated shortlisting with performance analytics  
-- Secure authentication & protected route workflows  
-- Production deployment on Vercel  
-- **Tech:** Next.js, React, Tailwind CSS, Firebase / MongoDB, REST APIs  
+🔗 Live Demo: https://virtual-book-store-ruby.vercel.app
+
+* Built and deployed a scalable full-stack online bookstore using Angular and Spring Boot with MongoDB Atlas.
+* Implemented secure authentication using Spring Security, JWT, and Google OAuth 2.0.
+* Integrated an AI-powered virtual assistant using Groq API for personalized book recommendations.
+* Optimized frontend performance using Angular's Vite-based build system.
+* Containerized backend services using Docker and deployed on Render and Vercel.
+* Integrated Google Books API for dynamic book catalog management.
+* **Tech Stack:** Angular, Spring Boot, Java, MongoDB, JWT, OAuth 2.0, Docker, Groq API
+
+---
+
+### 🩺 AI-Powered Pneumonia Detection System
+
+🔗 Live Demo: https://pneumonia-detection-using-deep-learning-swrr.onrender.com/
+
+* Developed a deep learning model using VGG16 to classify chest X-ray images as Pneumonia or Normal.
+* Built a Flask-based web application for image uploads and real-time predictions.
+* Implemented automated PDF report generation using ReportLab.
+* Optimized inference performance using TensorFlow Lite conversion.
+* Improved backend response times using model caching strategies.
+* **Tech Stack:** Python, TensorFlow/Keras, Flask, OpenCV, ReportLab, HTML, CSS
+
+---
 
 ### 🔐 LAVAZA Entry Verification System
-- Secure student login with Firebase Authentication  
-- Official Gmail restriction  
-- QR code generation with one-time entry rule  
-- Live deployment on Vercel  
-- **Tech:** Next.js, Firebase Auth, Firestore  
 
-### 🍔 Food Delivery Web Application
-- Responsive full-stack platform  
-- CRUD operations using PHP & MySQL  
-- Dynamic dashboard updates  
+🔗 Live Demo: https://lavaza-entry.vercel.app/
 
-### ☀️ Solar Tracking System (Arduino)
-- Automatic solar panel alignment using LDR sensors  
-- Improved energy efficiency by 30%  
+* Developed a secure entry verification platform using Next.js and Firebase.
+* Implemented Google-based authentication and Firestore data validation.
+* Generated QR codes with one-time entry validation.
+* Deployed the application on Vercel.
+* **Tech Stack:** Next.js, React, Firebase Authentication, Firestore, QR Code
+
+---
+
+### 🤖 Chanix — AI-Powered Job Portal Application
+
+🔗 Live Demo: https://chanixtt8.vercel.app/
+
+* Built recruiter and jobseeker dashboards with role-based access.
+* Implemented AI-powered resume matching and candidate scoring.
+* Designed automated interview workflows with email notifications.
+* Developed analytics dashboards for recruitment tracking.
+* Focused on scalable architecture and modern UI/UX.
+* **Tech Stack:** Next.js, React, Tailwind CSS, Firebase, AI Integration
 
 ---
 
 ## 💼 Internship Experience
 
-**Full Stack Engineer Intern — NLP CloudX Solutions Pvt. Ltd.**  
-- Production-style frontend & backend development  
-- Debugging, feature enhancements, deployment workflows  
 
 **AI & Machine Learning Intern — NIELIT Chennai**  
 - Hands-on ML model training  
