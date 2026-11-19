@@ -1,170 +1,203 @@
-<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+# 👋 Hi, I'm Sanapala Chanikya
 
-<h1 align="left">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>Sanapala Chanikya</strong>
-</h1>
+\<img align="right" width="350" src="[https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif](https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif)" />
 
-<h3>Full Stack Engineer | AI-Enabled Web Applications | Next.js • React • Firebase</h3>
+### Software Engineer | Full-Stack Development
 
-<div align="left">
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+**Building Technology. Creating Impact.**
 
-  <p>
-    Motivated full-stack focused engineering student passionate about building 
-    scalable, secure, and AI-powered web applications.  
-    I enjoy developing role-based systems, authentication workflows, 
-    and real-world production deployments.
-  </p>
+I'm a Computer Science and Engineering graduate (2026) passionate about building scalable, secure, and intelligent web applications.
 
-  <p>
-    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:sanapalachanikya@gmail.com">
-      <img src="https://img.shields.io/badge/📧_sanapalachanikya@gmail.com-1e1e2e?style=for-the-badge" />
-    </a>
-    <img src="https://img.shields.io/badge/🎓_B.Tech_CSE_(AI_&_ML)-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🤝_Open_to_Opportunities-1e1e2e?style=for-the-badge" />
-  </p>
+I enjoy transforming ideas into practical software products through full-stack development, API integration, authentication systems, database management, and AI-powered features.
 
-<h3>🌐 Connect With Me</h3>
-  
-<p align="left">
-  <a href="https://github.com/Chanikya-Sanapala">
-    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
-  </a>
+- 🎓 B.Tech CSE — Vel Tech (2022–2026)
+- 📊 CGPA: 8.34/10
+- 💻 Focus: Full-Stack & Software Engineering
+- 🌱 Exploring: Cloud, DevOps & AI Integration
+- 🤝 Open to Software Engineer and Full-Stack Developer opportunities
+- 📍 India
 
-  <a href="https://linkedin.com/in/chanikya-sanapala">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
-  </a>
+**Contact:** [sanapalachanikya@gmail.com](mailto\:sanapalachanikya@gmail.com)
 
-  <a href="https://chanikya-portfolio-mocha.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=white" />
-  </a>
-</p>
+---
 
-  <img src="https://komarev.com/ghpvc/?username=Chanikya-Sanapala&style=flat-square&color=blue" alt="Profile Visit"/>
-</div>
+## 🌐 Connect With Me
 
-<br clear="all" />
+\<p align="left">
+\<a href="[https://github.com/Chanikya-Sanapala](https://github.com/Chanikya-Sanapala)">\<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)"/>\</a>
+\<a href="[https://linkedin.com/in/chanikya-computerscience](https://linkedin.com/in/chanikya-computerscience)">\<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)"/>\</a>
+\<a href="[https://chanikya-portfolio-mocha.vercel.app](https://chanikya-portfolio-mocha.vercel.app)">\<img src="[https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)"/>\</a>
+\<a href="mailto\:sanapalachanikya\@gmail.com">\<img src="[https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)"/>\</a>
+\</p>
+
+
 
 ---
 
 ## 🛠️ Technical Skills
 
-<p align="center">
-<table>
-<tr>
-<td width="50%" align="center">
-<h3>💻 Programming</h3>
-<img src="https://skillicons.dev/icons?i=java,html,css,js" />
-</td>
+### Programming Languages
 
-<td width="50%" align="center">
-<h3>⚛️ Frontend</h3>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-</td>
-</tr>
+\<p>
+\<img src="[https://skillicons.dev/icons?i=java,js,html,css](https://skillicons.dev/icons?i=java,js,html,css)"/>
+\</p>
 
-<tr>
-<td width="50%" align="center">
-<h3>🗄️ Databases</h3>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
-</td>
+### Frontend Development
 
-<td width="50%" align="center">
-<h3>🧰 Tools & Platforms</h3>
-<img src="https://skillicons.dev/icons?i=git,vercel,postman" />
-</td>
-</tr>
-</table>
-</p>
+\<p>
+\<img src="[https://skillicons.dev/icons?i=angular,react,nextjs,tailwind,bootstrap](https://skillicons.dev/icons?i=angular,react,nextjs,tailwind,bootstrap)"/>
+\</p>
+
+### Backend Development
+
+\<p>
+\<img src="[https://skillicons.dev/icons?i=spring,nodejs,express](https://skillicons.dev/icons?i=spring,nodejs,express)"/>
+\</p>
+
+### Databases
+
+\<p>
+\<img src="[https://skillicons.dev/icons?i=mongodb,mysql,firebase](https://skillicons.dev/icons?i=mongodb,mysql,firebase)"/>
+\</p>
+
+### Tools & Cloud Platforms
+
+\<p>
+\<img src="[https://skillicons.dev/icons?i=git,github,docker,aws,postman,maven,vercel](https://skillicons.dev/icons?i=git,github,docker,aws,postman,maven,vercel)"/>
+\</p>
+
+### Additional Technologies
+
+- REST API Development
+- JWT Authentication & OAuth 2.0
+- Database Integration
+- AI API Integration
+- Application Debugging
+- Cloud Deployment
+- Object-Oriented Programming
+- Data Structures & DBMS
 
 ---
+
 ## 🚀 Featured Projects
 
-### 📚 LeafyBooks — AI-Integrated Full-Stack E-Commerce Platform
+### 📚 1. LeafyBooks — AI-Integrated Book Recommendation Platform
 
-🔗 Live Demo: https://virtual-book-store-ruby.vercel.app
+**Angular | Java | Spring Boot | MongoDB Atlas | REST APIs | Docker**
 
-* Built and deployed a scalable full-stack online bookstore using Angular and Spring Boot with MongoDB Atlas.
-* Implemented secure authentication using Spring Security, JWT, and Google OAuth 2.0.
-* Integrated an AI-powered virtual assistant using Groq API for personalized book recommendations.
-* Optimized frontend performance using Angular's Vite-based build system.
-* Containerized backend services using Docker and deployed on Render and Vercel.
-* Integrated Google Books API for dynamic book catalog management.
-* **Tech Stack:** Angular, Spring Boot, Java, MongoDB, JWT, OAuth 2.0, Docker, Groq API
+A full-stack online bookstore with secure authentication and AI-powered book recommendations.
 
----
+- Developed book and user management workflows.
+- Implemented JWT authentication and Google OAuth 2.0.
+- Integrated AI-powered book recommendation functionality.
+- Built REST APIs using Spring Boot.
+- Containerized backend services using Docker.
+- Deployed using Vercel and Render.
 
-### 🩺 AI-Powered Pneumonia Detection System
+🔗 [**Live Demo**](https://virtual-book-store-ruby.vercel.app)
 
-🔗 Live Demo: https://pneumonia-detection-using-deep-learning-swrr.onrender.com/
+### 🤖 2. VEYRA — AI-Powered Recruitment Platform
 
-* Developed a deep learning model using VGG16 to classify chest X-ray images as Pneumonia or Normal.
-* Built a Flask-based web application for image uploads and real-time predictions.
-* Implemented automated PDF report generation using ReportLab.
-* Optimized inference performance using TensorFlow Lite conversion.
-* Improved backend response times using model caching strategies.
-* **Tech Stack:** Python, TensorFlow/Keras, Flask, OpenCV, ReportLab, HTML, CSS
+**Full-Stack Development | APIs | Authentication | AI Integration**
 
----
+An intelligent recruitment platform connecting job seekers and recruiters through AI-assisted workflows.
 
-### 🔐 LAVAZA Entry Verification System
+- Developed job discovery and application workflows.
+- Built candidate and recruiter dashboards.
+- Implemented role-based authentication and access control.
+- Integrated AI-based resume analysis and candidate-job matching.
+- Developed candidate status management and automated notifications.
+- Created recruitment tracking and management workflows.
 
-🔗 Live Demo: https://lavaza-entry.vercel.app/
+🔗 [**Live Demo**](https://chanixtt8.vercel.app)
 
-* Developed a secure entry verification platform using Next.js and Firebase.
-* Implemented Google-based authentication and Firestore data validation.
-* Generated QR codes with one-time entry validation.
-* Deployed the application on Vercel.
-* **Tech Stack:** Next.js, React, Firebase Authentication, Firestore, QR Code
+### 🔐 3. LAVAZA — Entry Verification System
 
----
+**Next.js | React | Firebase | QR Code Verification**
 
-### 🤖 Chanix — AI-Powered Job Portal Application
+A secure QR-based event entry verification application.
 
-🔗 Live Demo: https://chanixtt8.vercel.app/
+- Developed authentication and access control.
+- Implemented one-time QR code validation.
+- Integrated Firebase Firestore for database-driven verification.
+- Deployed the application using Vercel.
 
-* Built recruiter and jobseeker dashboards with role-based access.
-* Implemented AI-powered resume matching and candidate scoring.
-* Designed automated interview workflows with email notifications.
-* Developed analytics dashboards for recruitment tracking.
-* Focused on scalable architecture and modern UI/UX.
-* **Tech Stack:** Next.js, React, Tailwind CSS, Firebase, AI Integration
+🔗 [**Live Demo**](https://lavaza-entry.vercel.app)
 
----
+### 🩺 4. Pneumonia Detection Using Deep Learning
 
-## 💼 Internship Experience
+**Python | Flask | VGG16 | Transfer Learning**
 
+A deep learning application that detects pneumonia from chest X-ray images.
 
-**AI & Machine Learning Intern — NIELIT Chennai**  
-- Hands-on ML model training  
-- Practiced ML workflows in Google Colab  
+- Developed a VGG16-based image classification model.
+- Built a Flask web application for image uploads and predictions.
+- Implemented image processing and prediction workflows.
+- Integrated automated PDF report generation.
+- Deployed the application using Render.
+
+🔗 [**Live Demo**](https://pneumonia-detection-using-deep-learning-swrr.onrender.com/)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Chanikya-Sanapala&theme=dark&hide_border=true" />
-</div>
+\<p align="center">
+\<img height="180" src="[https://github-readme-stats.vercel.app/api?username=Chanikya-Sanapala&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=Chanikya-Sanapala\&show_icons=true\&theme=tokyonight\&hide_border=true\&rank_icon=github)"/>
+\<img height="180" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Chanikya-Sanapala&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=Chanikya-Sanapala\&layout=compact\&theme=tokyonight\&hide_border=true)"/>
+\</p>
+
+\<p align="center">
+\<img width="90%" src="[https://streak-stats.demolab.com?user=Chanikya-Sanapala&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=Chanikya-Sanapala\&theme=tokyonight\&hide_border=true)"/>
+\</p>
 
 ---
 
-## 🎯 Career Focus
-- AI-enabled Web Applications  
-- Role-Based Authentication Systems  
-- Scalable Full Stack Development  
-- Secure Deployment Workflows  
+## 🐍 Contribution Snake
+
+\<p align="center">
+\<img src="[https://raw.githubusercontent.com/Chanikya-Sanapala/Chanikya-Sanapala/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/Chanikya-Sanapala/Chanikya-Sanapala/output/github-contribution-grid-snake-dark.svg)" alt="GitHub Contribution Snake"/>
+\</p>
+
+---
+
+## 🎓 Education
+
+**B.Tech — Computer Science and Engineering**
+
+Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology
+
+2022 – 2026 | CGPA: 8.34/10
 
 ---
 
 ## 📜 Certifications
-- IBM — Mainframe Practitioner  
-- IBM — Introduction to z/OS  
-- Infosys — Python for Beginners  
-- Infosys — Java Programming Fundamentals  
+
+- IBM — Mainframe Practitioner
+- Infosys — Python for Beginners
+- Infosys — Java Programming Fundamentals
+- AWS — Developer Associate Exam Preparation
 
 ---
 
-⭐ *“Building scalable and secure software products with real-world impact.”*
+## 🏆 Achievements
+
+🥈 **Second Prize – Photography**
+
+ILIZIUM'25 National Level Technical Event.
+
+---
+
+## 🎯 Current Focus
+
+- Building scalable full-stack applications.
+- Improving Java and Spring Boot development.
+- Exploring cloud infrastructure and DevOps.
+- Developing practical AI-integrated software.
+- Strengthening problem-solving and software engineering fundamentals.
+
+---
+
+\<p align="center"> \<strong>💡 Building scalable software. Solving real-world problems. Creating impact through technology.\</strong> \</p>
+
+\<p align="center"> \<img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&height=100\&section=footer)"/> \</p>
