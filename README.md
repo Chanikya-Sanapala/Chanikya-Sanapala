@@ -279,11 +279,10 @@ Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Chanikya-Sanapala&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Activity Graph"/>
 </p>
 
-### 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Chanikya-Sanapala/Chanikya-Sanapala/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation"/>
-</p>
+## 🐍 Contribution Snake
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Chanikya-Sanapala/Chanikya-Sanapala/output/github-contribution-grid-snake.svg)
 
 ---
 
