@@ -1,41 +1,62 @@
+
 # 👋 Hi, I'm Sanapala Chanikya
 
-\<p align="center">
-&#x20; \<img width="100%" src="[https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif](https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif)" alt="Animated Banner"/>
-\</p>
+<p align="center">
+  <img width="100%" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" alt="Animated Banner"/>
+</p>
 
-\<h1 align="left">
-&#x20; \<img src="[https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)" width="32"/>
-&#x20; Hi, I'm \<strong>Sanapala Chanikya\</strong>
-\</h1>
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="35" alt="Waving Hand"/>
+  Hi, I'm Sanapala Chanikya
+</h1>
 
-### Software Engineer | Full-Stack Developer | AI-Integrated Applications
+<h3 align="center">
+  Software Engineer | Full-Stack Developer | AI-Integrated Applications
+</h3>
 
-\<img align="right" width="350" src="[https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif](https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif)" alt="Coding Animation"/>
+<p align="center">
+  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="Coding Animation"/>
+</p>
 
-**Building Technology. Creating Impact.**
+### 🚀 About Me
 
-Software Engineer and Full-Stack Developer passionate about building scalable, secure, and AI-powered web applications.
+I am a Computer Science and Engineering graduate (2026) with hands-on experience developing and deploying full-stack web applications.
 
-I enjoy transforming ideas into practical software products through frontend development, backend engineering, REST API integration, authentication systems, database management, and AI-powered features.
+I enjoy building practical software solutions using Java, JavaScript, Angular, React, Spring Boot, Node.js, REST APIs, and databases. I also have experience integrating AI-powered functionality into applications.
 
-- 🎓 B.Tech CSE — Vel Tech (2022–2026)
-- 📊 CGPA: 8.3/10
-- 💻 Focus: Full-Stack & Software Engineering
-- 🤖 Exploring: AI Integration and LLM Applications
-- ☁️ Learning: Cloud, AWS and DevOps
-- 🤝 Open to Software Engineer and Full-Stack Developer opportunities
-- 🌍 India
+- 🎓 **Degree:** B.Tech in Computer Science and Engineering
+- 🏛️ **University:** Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology
+- 📊 **CGPA:** 8.34/10
+- 💻 **Primary Interest:** Full-Stack Software Development
+- 🤖 **Additional Interest:** AI-Integrated Application Development
+- ☁️ **Deployment:** AWS, Vercel, Render
+- 🌍 **Location:** India
+- 🤝 **Interested in:** Software Engineer and Full-Stack Developer opportunities
 
-\<br clear="all"/>
+<br clear="right"/>
 
 ---
 
 ## 🌐 Connect With Me
 
-\<p align="left">   \<a href="[https://github.com/Chanikya-Sanapala](https://github.com/Chanikya-Sanapala)">     \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub"/>   \</a>   \<a href="[https://linkedin.com/in/chanikya-computerscience](https://linkedin.com/in/chanikya-computerscience)">     \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="LinkedIn"/>   \</a>   \<a href="[https://chanikya-portfolio-mocha.vercel.app](https://chanikya-portfolio-mocha.vercel.app)">     \<img src="[https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)" alt="Portfolio"/>   \</a>   \<a href="mailto\:sanapalachanikya\@gmail.com">     \<img src="[https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)" alt="Email"/>   \</a> \</p>
+<p align="center">
+  <a href="https://github.com/Chanikya-Sanapala">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/chanikya-computerscience">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://chanikya-portfolio-mocha.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:sanapalachanikya@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-\<p>   \<img src="[https://komarev.com/ghpvc/?username=Chanikya-Sanapala&label=Profile%20Views&color=blueviolet&style=flat-square](https://komarev.com/ghpvc/?username=Chanikya-Sanapala\&label=Profile%20Views\&color=blueviolet\&style=flat-square)" alt="Profile Views"/> \</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Chanikya-Sanapala&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
+</p>
 
 ---
 
@@ -43,189 +64,245 @@ I enjoy transforming ideas into practical software products through frontend dev
 
 ### 💻 Programming Languages
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=java,js,ts,html,css](https://skillicons.dev/icons?i=java,js,ts,html,css)" alt="Programming Languages"/> \</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,html,css" alt="Programming Languages"/>
+</p>
 
-### ⚛️ Frontend Development
+- Java
+- JavaScript
+- SQL
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,bootstrap](https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,bootstrap)" alt="Frontend Technologies"/> \</p>
+### 🎨 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,react,html,css,tailwind,bootstrap" alt="Frontend Technologies"/>
+</p>
+
+- Angular
+- React.js
+- HTML5
+- CSS3
+- Tailwind CSS
+- Bootstrap
 
 ### ⚙️ Backend Development
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=spring,nodejs,express,fastapi,flask](https://skillicons.dev/icons?i=spring,nodejs,express,fastapi,flask)" alt="Backend Technologies"/> \</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring" alt="Backend Technologies"/>
+</p>
 
-### 🗄️ Databases
-
-\<p>   \<img src="[https://skillicons.dev/icons?i=mongodb,mysql,firebase](https://skillicons.dev/icons?i=mongodb,mysql,firebase)" alt="Databases"/> \</p>
-
-### ☁️ Cloud, DevOps & Tools
-
-\<p>   \<img src="[https://skillicons.dev/icons?i=git,github,docker,aws,vercel,postman,maven,vscode](https://skillicons.dev/icons?i=git,github,docker,aws,vercel,postman,maven,vscode)" alt="Tools and Cloud Platforms"/> \</p>
-
-### 🤖 AI & Additional Technologies
-
-- LLM API Integration
-- Groq API
-- AI Application Development
-- Prompt Engineering
-- GitHub Copilot and Cursor AI
+- Java Spring Boot
+- Node.js
+- Express.js
 - REST API Development
 - JWT Authentication
 - OAuth 2.0
-- Database Integration
-- Cloud Deployment
-- Object-Oriented Programming
-- Data Structures and DBMS
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" alt="Database Technologies"/>
+</p>
+
+- MongoDB Atlas
+- MySQL
+- Firebase Firestore
+
+### ☁️ Tools, Cloud & Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,postman,maven,vscode" alt="Development Tools"/>
+</p>
+
+- Git and GitHub
+- Docker
+- Maven
+- Postman
+- AWS
+- Vercel
+- Render
+
+### 🤖 AI Tools
+
+- ChatGPT
+- Claude
+- Google Antigravity
+- GitHub Copilot
+- Cursor AI
+- AI Integration
+- AI-Powered Application Development
+
+### 📚 Core Computer Science Knowledge
+
+- Object-Oriented Programming (OOP)
+- Data Structures
+- Database Management Systems (DBMS)
+- SQL
+- Software Development Life Cycle (SDLC)
+- Authentication and Authorization
+- Application Debugging
+- API Integration
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 1. VEYRA — AI-Powered Recruitment Platform
+### 1. 🤖 VEYRA – AI-Powered Recruitment Platform
 
-**Full-Stack Development | AI Recruitment | Resume Intelligence**
+**Technologies:** Full-Stack Development | APIs | Authentication | AI Integration
 
-An intelligent recruitment platform connecting job seekers and recruiters through AI-powered recruitment workflows.
+An AI-integrated recruitment platform designed to support job seekers and recruiters throughout the recruitment process.
 
 **Key Features:**
 
-- Developed responsive candidate and recruiter dashboards.
-- Implemented job creation, job discovery and application tracking.
-- Built AI-powered resume parsing and candidate-job matching.
-- Generated candidate match scores and identified skill gaps.
-- Integrated AI-powered technical and behavioral interview workflows.
-- Implemented automated response evaluation and candidate scoring.
-- Developed role-based authentication and candidate status notifications.
+- Developed a recruitment platform supporting job discovery and applications.
+- Built candidate and recruiter dashboards.
+- Implemented job management and application tracking.
+- Developed candidate administration and recruitment workflows.
+- Integrated AI-based resume analysis.
+- Implemented AI-based candidate-job matching to support recruitment decisions.
+- Added role-based authentication and candidate status management.
+- Implemented automated application notifications.
 
-**Technologies:** Full-Stack Development, REST APIs, Authentication, AI/LLM Integration.
+**Project Focus:** Recruitment automation, resume processing, candidate matching, and full-stack application development.
 
 ---
 
-### 📚 2. LeafyBooks — AI-Integrated Book Recommendation Platform
+### 2. 📚 LeafyBooks – AI-Integrated Book Recommendation Platform
 
-**Angular | Java | Spring Boot | MongoDB Atlas | JWT | OAuth 2.0 | Docker | Groq API**
+**Technologies:** Angular | Java | Spring Boot | MongoDB Atlas | REST APIs | JWT | OAuth 2.0 | Docker
 
-A full-stack online bookstore with secure authentication and personalized AI-powered book recommendations.
+A full-stack e-commerce application that provides book and user management functionality with AI-powered book recommendations.
 
 **Key Features:**
 
-- Developed book and user management workflows.
-- Built REST APIs using Spring Boot.
-- Implemented JWT authentication and Google OAuth 2.0.
-- Integrated Groq API for AI-powered book recommendations.
-- Integrated MongoDB Atlas for database management.
-- Containerized backend services using Docker.
+- Developed a full-stack application using Angular and Spring Boot.
+- Created REST APIs for book and user management.
+- Integrated MongoDB Atlas for database operations.
+- Implemented JWT authentication for secure user access.
+- Integrated Google OAuth 2.0 authentication.
+- Added AI-powered book recommendation functionality.
+- Developed application workflows for managing books, users, and data.
+- Used Docker for backend containerization.
+- Deployed the application using Vercel and Render.
 
-🔗 **Live Demo:** [LeafyBooks](https://virtual-book-store-ruby.vercel.app)
+🔗 **Live Demo:** https://virtual-book-store-ruby.vercel.app
 
 ---
 
-### 🔐 3. LAVAZA — QR-Based Entry Verification System
+### 3. 🔐 LAVAZA – Entry Verification System
 
-**Next.js | React | Firebase | Firestore | QR Code | Vercel**
+**Technologies:** Next.js | Firebase | QR Code Verification | Authentication
 
-A secure event entry verification application using QR codes and database-driven validation.
+A QR-based event entry verification application designed to validate event access securely.
 
 **Key Features:**
 
-- Developed authentication and access control.
-- Implemented QR code generation and one-time validation.
-- Integrated Firebase Authentication and Firestore.
-- Built secure event entry verification workflows.
-- Deployed the application using Vercel.
+- Developed an event entry verification application using Next.js.
+- Implemented QR-based entry verification.
+- Added one-time QR validation.
+- Integrated authentication and access control.
+- Implemented database-driven verification workflows using Firebase.
+- Deployed the application on Vercel.
 
-🔗 **Live Demo:** [LAVAZA](https://lavaza-entry.vercel.app/)
+🔗 **Live Demo:** https://lavaza-entry.vercel.app/
 
 ---
 
-### 🩺 4. Pneumonia Detection Using Deep Learning
+### 4. 🩺 Pneumonia Detection Using Deep Learning
 
-**Python | Flask | VGG16 | Transfer Learning**
+**Technologies:** Python | Flask | VGG16 | Transfer Learning
 
-A deep learning application that detects pneumonia from chest X-ray images.
+A deep learning-based web application for pneumonia detection from chest X-ray images.
 
 **Key Features:**
 
-- Developed a VGG16-based image classification model.
-- Implemented transfer learning.
-- Built a Flask application for image uploads and predictions.
-- Integrated image processing and prediction workflows.
-- Implemented automated PDF report generation.
+- Developed a Flask web application for pneumonia detection.
+- Used the VGG16 architecture for image classification.
+- Applied transfer learning.
+- Implemented chest X-ray image processing.
+- Developed prediction workflows.
+- Added automated PDF report generation.
 - Deployed the application using Render.
 
-🔗 **Live Demo:** [Pneumonia Detection](https://pneumonia-detection-using-deep-learning-swrr.onrender.com/)
+🔗 **Live Demo:** https://pneumonia-detection-using-deep-learning-swrr.onrender.com/
 
 ---
 
 ## 🎓 Education
 
-**B.Tech — Computer Science and Engineering**
+**B.Tech – Computer Science and Engineering**
 
 Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology
 
-📅 2022 – 2026
-
-📊 CGPA: 8.3/10
+- **Duration:** 2022 – 2026
+- **CGPA:** 8.34/10
 
 ---
 
 ## 📜 Certifications
 
-- IBM — Mainframe Practitioner
-- Infosys — Python for Beginners
-- Infosys — Java Programming Fundamentals
-- AWS — Developer Associate Exam Preparation
+- **Infosys:** Python for Beginners
+- **Infosys:** Java Programming Fundamentals
+- **IBM:** Mainframe Practitioner
+- **AWS:** Developer Associate Exam Preparation
 
 ---
 
 ## 🏆 Achievements
 
-- 🥈 Second Prize — Photography, ILIZIUM'25 National Level Technical Event.
-- 🚀 Built and deployed multiple full-stack and AI-powered applications.
-- 🤖 Developed AI-powered recruitment workflows involving resume intelligence and candidate matching.
-- 💡 Developed real-world applications involving authentication, databases, APIs and cloud deployment.
+- 🥈 Second Prize in Photography at ILIZIUM'25 National Level Technical Event.
+- 🚀 Developed and deployed full-stack web applications.
+- 🤖 Integrated AI-powered functionality into application projects.
+- 💡 Built applications involving authentication, database integration, API development, and deployment.
 
 ---
 
 ## 📊 GitHub Analytics
 
-\<p align="center">
-&#x20; \<img height="180" src="[https://github-readme-stats.vercel.app/api?username=Chanikya-Sanapala&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=Chanikya-Sanapala\&show_icons=true\&theme=tokyonight\&hide_border=true\&rank_icon=github)" alt="GitHub Stats"/>
-&#x20; \<img height="180" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Chanikya-Sanapala&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=Chanikya-Sanapala\&layout=compact\&theme=tokyonight\&hide_border=true)" alt="Top Languages"/>
-\</p>
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Chanikya-Sanapala&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chanikya-Sanapala&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
 
-\<p align="center">
-&#x20; \<img width="90%" src="[https://streak-stats.demolab.com?user=Chanikya-Sanapala&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=Chanikya-Sanapala\&theme=tokyonight\&hide_border=true)" alt="GitHub Contribution Streak"/>
-\</p>
-
----
-
-## 📈 Contributions in the Last Year
-
-\<p align="center">
-&#x20; \<img src="[https://github-readme-activity-graph.vercel.app/graph?username=Chanikya-Sanapala&theme=tokyo-night&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=Chanikya-Sanapala\&theme=tokyo-night\&hide_border=true)" width="100%" alt="Contribution Activity Graph"/>
-\</p>
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=Chanikya-Sanapala&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+</p>
 
 ---
 
-## 🐍 GitHub Contribution Snake
+## 📈 GitHub Contributions
 
-\<p align="center">
-&#x20; \<img src="[https://raw.githubusercontent.com/Chanikya-Sanapala/Chanikya-Sanapala/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/Chanikya-Sanapala/Chanikya-Sanapala/output/github-contribution-grid-snake-dark.svg)" alt="GitHub Contribution Snake Animation"/>
-\</p>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Chanikya-Sanapala&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Activity Graph"/>
+</p>
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Chanikya-Sanapala/Chanikya-Sanapala/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation"/>
+</p>
 
 ---
 
 ## 🎯 Current Focus
 
-- Building scalable full-stack applications.
-- Improving Java and Spring Boot development.
-- Exploring AI-powered applications using LLM APIs.
-- Learning AWS, Cloud Infrastructure and DevOps.
-- Strengthening Data Structures, OOP and Software Engineering fundamentals.
-- Developing secure and maintainable software products.
+- Developing full-stack web applications.
+- Improving Java and Spring Boot development skills.
+- Building responsive frontend applications.
+- Working with REST APIs and database integration.
+- Exploring AI-integrated application development.
+- Strengthening software engineering and problem-solving skills.
+- Learning cloud technologies and deployment practices.
 
 ---
 
-\<p align="center">   \<strong>💡 Building scalable software. Solving real-world problems. Creating impact through technology.\</strong> \</p>
+<p align="center">
+  <strong>💡 Building Technology | Solving Problems | Creating Impact</strong>
+</p>
 
-\<p align="center">   \<img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&height=120\&section=footer)" width="100%" alt="Animated Footer"/> \</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" alt="Animated Footer"/>
+</p>
+```
+
