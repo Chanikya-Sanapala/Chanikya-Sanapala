@@ -165,6 +165,7 @@ An AI-integrated recruitment platform designed to support job seekers and recrui
 - Implemented automated application notifications.
 
 **Project Focus:** Recruitment automation, resume processing, candidate matching, and full-stack application development.
+
 🔗 **Live Demo:** https://veyraai-recruiting.vercel.app
 
 ---
